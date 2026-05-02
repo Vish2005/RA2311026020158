@@ -1,7 +1,7 @@
 {
   "name": "logging-middleware",
   "version": "1.0.0",
-  "description": "Reusable logging middleware for AffordMed Evaluation",
+  "description": "Reusable logging middleware for Evaluation",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

@@ -1,6 +1,6 @@
 # Logging Middleware
 
-A reusable logging package in TypeScript for the AffordMed Campus Hiring Evaluation.
+A reusable logging package in TypeScript for the Campus Hiring Evaluation.
 
 ## Building the Package
 

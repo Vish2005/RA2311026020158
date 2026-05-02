@@ -18,7 +18,7 @@ export class Logger {
   }
 
   /**
-   * Sends a log message to the AffordMed evaluation service.
+   * Sends a log message to the evaluation service.
    */
   public static async Log(stack: Stack, level: Level, pkg: Package, message: string): Promise<void> {
     if (!this.accessToken) {
