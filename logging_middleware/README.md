@@ -50,3 +50,13 @@ The `Log` function strict types enforce the following:
   - Frontend only: `"api" | "component" | "hook" | "page" | "state" | "style"`
   - Backend only: `"cache" | "controller" | "cron_job" | "db" | "domain" | "handler" | "repository" | "route" | "service"`
   - Both: `"auth" | "config" | "middleware" | "utils"`
+
+### Demo video
+
+
+https://github.com/user-attachments/assets/8b32f5f6-20f8-446a-acf9-4ac4d9614fbf
+
+
+
+
+
